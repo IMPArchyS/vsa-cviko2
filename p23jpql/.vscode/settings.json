@@ -1,0 +1,15 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "vsa",
+            "database": "vsa_cv2",
+            "username": "vsa",
+            "password": "vsa"
+        }
+    ]
+}
